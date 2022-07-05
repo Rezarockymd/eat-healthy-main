@@ -1,0 +1,91 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    margin: 10px;
+    
+}
+
+p {
+    text-align: center;
+    display: inline;
+
+}
+
+.introduction {
+    display: flex;
+    background-image: url(images/shapes/Frame\ 56.jpg);
+}
+
+.about-me {
+    display: flex;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+p {
+    font-size: 30px;
+}
+
+.half-width {
+    width: 50%;
+    margin-right: 20px;
+    margin-left: 30px;
+}
+
+.box {
+    display: flex;
+    padding-bottom: 100px;
+
+}
+
+.box-one {
+    width: 50%;
+    padding: 50px 50px 50px 50px;
+    border: 50px 50px 50px 50px;
+    text-align: center;
+    box-shadow: 10x 10px 10px 10px gray;
+    border-radius: 10px;
+}
+
+.box-one img {
+    width: 80%;
+    width: 800px;
+    height: 450px;
+}
+
+.link {
+    color: aliceblue;
+    background-color: orange;
+    border: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 30px;
+
+}
+
+.highlight {
+ width: 33.33%;
+ text-align: center;
+
+}
+
+.bottom {
+    display:flex;
+    box-shadow: 10px 10px 10px 10px gray;
+    border-radius: 5px;
+}
+
+.foot{
+    font-family: 'Poppins', sans-serif;
+    display: flexbox;
+    text-align: center;
+    width:100%;
+    color: white;
+    background-color: black;
+    padding-bottom: 100px;
+    }
+.foot h1{
+    color: gray;
+}
